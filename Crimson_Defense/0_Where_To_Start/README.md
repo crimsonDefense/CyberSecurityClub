@@ -1,11 +1,11 @@
 # Where to Start
-<p>You are probably here because this is all brand new to you and you want to learn what cyber security is all about! Here you will find links to resources that will hopefully provide you with the information you are looking for. If you are just starting out, it is time to learn the basics.</p>
+<p>You are probably here because this is all brand new to you and you want to learn what cyber security is all about! Here you will find links to resources that will provide useful information. If you are just starting out, it is time to learn the basics.</p>
 <br>
 
 ## <b>YouTube</b>
-You won't find a better place full of videos to get you started than YouTube. So many different channels
-with great content and individuals that wan't to educate others and teach people the important aspects 
-of the cyber security world. The following are links to youtube videos that are worth checking out!
+You won't find a better place full of videos to get you started than YouTube. There are so many different channels
+with great content and individuals that want to educate others and teach people the important aspects 
+of the cyber security world. The following are links to YouTube videos that are worth checking out!
 
 ### <b>What is Cyber Securtiy?</b>
 "Cyber security is the practice of protecting systems, networks, and programs from digital attacks. These 
@@ -35,16 +35,16 @@ Infosec<br>
 [What Security Job Should I get?](https://www.youtube.com/watch?v=R_-K_TwsbOE)<br>
 Cyberactive Security<br>
 
-Here is a nice beginners guide to cyber security<br>
+Here is a nice beginner's guide to cyber security.<br>
 [Beginner's Guide](https://techbootcamps.rice.edu/blog/the-beginners-guide-to-cybersecurity/) <br>
 <br>
 
 ## <b>Command Line Interface (CLI)</b>
 <p>You will be spending a lot of time with the command line interface (CLI). Therefore, it is important that you understand why and how to use it. </p>
 
-[What is Command Line Interface](https://www.w3schools.com/whatis/whatis_cli.asp)<br>
+[What is Command Line Interface?](https://www.w3schools.com/whatis/whatis_cli.asp)<br>
 
-<p>The following are great links lists of linux as well as bash commands and how to use them. They are important to know and will help you out a lot along the way.</p>
+<p>The following are great links for Linux as well as bash commands and how to use them. They are important to know and will help you out a lot along the way.</p>
 
 [Linux Commands Explained](https://www.mediacollege.com/linux/command-tutorial/) <br>
 
@@ -55,15 +55,15 @@ Here is a nice beginners guide to cyber security<br>
 [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html) <br>
 <br>
 
-<p>The following link takes you to a great website where you can practice using the above commands and the even teach you how use them. They want you to learn!</p>
+<p>The following link takes you to a great website where you can practice using the above commands. They even teach you how use them. They want you to learn!</p>
 
 [Over the wire](https://overthewire.org/wargames/bandit/) <br>
 <br>
 
-## <b>Virtual Machines and Virtualbox</b>
-<p>Along with the CLI another important topic is the Virtual Machine (VM). Virtual machines get used a lot when learning cyber security and throughout your cyber security career! It is definitely very important to know. The following link will take you to a great description and video describing what a virtual machine is.</p>
+## <b>Virtual Machines and VirtualBox</b>
+<p>Another important topic is the Virtual Machine (VM). Virtual machines are used a lot when learning cyber security and throughout your cyber security career! It is definitely very important to know. The following link will take you to a great description and video describing what a virtual machine is.</p>
 
-[What is a virtual machine](https://www.ibm.com/cloud/learn/virtual-machines)
+[What is a virtual machine?](https://www.ibm.com/cloud/learn/virtual-machines)
 
 <p>The hypervisor we typically use is VirtualBox, the following is a link to the main website where you can learn more about it. Downloading it is very straightfoward, click the big blue button!</p>
 
@@ -71,9 +71,10 @@ Here is a nice beginners guide to cyber security<br>
 <br>
 
 ## <b>Introductory Material</b>
-Here are some other links to videos I think will be helpful. Obviously, from YouTube.<br>
+Here are some other links to YouTube videos I think will be helpful.<br>
 
-This crash course is great and can answer some of the million questions you probably have since this is all new to you.<br>
+This crash course is great for new beginners and can answer some of the million questions you probably have.<br>
+
 [Crash Course for Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) <br>
 
 [What is Linux?](https://www.youtube.com/watch?v=zA3vmx0GaO8) <br>

@@ -5,7 +5,7 @@ Stay up to date with the world of linux:<br>
 https://www.linux.com/ <br>
 <br>
 
-Learn about current cyber security news <br>
+Learn about current cyber security news. <br>
 https://www.reuters.com/news/archive/cybersecurity <br>
 <br>
 
@@ -13,14 +13,14 @@ Learn hands on cyber security techinques. The virtual machines for this site are
 https://seedsecuritylabs.org/index.html <br>
 <br>
 
-The following is a link to a website in which you can buy some great course and learn a whole lot. Don't <b>EVER</b> pay full price for a course. Just put it in your wishlist, wait a few days, and then check again; There will be a sale.<br>
+The following is a link to a website in which you can buy some great courses and learn a whole lot. Don't <b>EVER</b> pay full price for a course. Just put it in your wishlist, wait a few days, and then check again; there will be a sale.<br>
 https://www.udemy.com/ <br>
 <br>
 
 Practice your cyber security skills. <br>
 https://0x00sec.org/ <br>
 
-Core hacking course on youtube <br>
+Core hacking course on YouTube <br>
 https://www.youtube.com/playlist?list=PLMGUdaTHpFQLmSAk5_cTM8Y502hhVpeNf <br>
 <br>
 
@@ -50,12 +50,12 @@ Volatility <br>
 https://github.com/volatilityfoundation/volatility/wiki/Command-Reference <br>
 
 Autopsy <br>
-is an easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. <br>
+An easy to use, GUI-based program that allows you to efficiently analyze hard drives and smart phones. <br>
 It has a plug-in architecture that allows you to find add-on modules or develop custom modules in Java or Python. <br>
 https://www.autopsy.com/ <br>
 
 The Sleuth Kit <br>
-is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. <br>
+A collection of command line tools and a C library that allows you to analyze disk images and recover files from them. <br>
 It is used behind the scenes in Autopsy and many other open source and commercial forensics tools. <br>
 https://www.sleuthkit.org/ <br>
 
@@ -102,27 +102,27 @@ https://github.com/bwrsandman/Bless <br>
 The following commands are going to be helpful: <br>
 strings, file, exiftool <br>
 
-and as always you can use Python to help <br>
+As always, you can use Python to help. <br>
 
 
 
 NETWORK TRAFFIC ANALYSIS: <br>
 Wireshark <br>
-is probably already installed <br>
+It is probably already installed. <br>
 https://www.wireshark.org/ <br>
 
-The Telnet protocol is an old, insecure protocol used to remotely login to and administer computers <br>
+The Telnet protocol is an old, insecure protocol used to remotely login to and administer computers. <br>
 
 tshark <br>
-network protocol analyzer. It lets you capture packet data from a live network, or read packets from a previously saved capture file, either printing a decoded <br>
-form of those packets to the standard output or writing the packets to a file. <br>
+network protocol analyzer. 
+It lets you capture packet data from a live network, or read packets from a previously saved capture file, either printing a decoded form of those packets to the standard output or writing the packets to a file. <br>
 https://www.wireshark.org/docs/man-pages/tshark.html <br>
 
 Scapy <br>
 Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. <br>
 https://scapy.net/ <br>
 
-Get familiar with <br>
+Get familiar with: <br>
 netcat <br>
 https://linux.die.net/man/1/nc <br>
 
@@ -140,7 +140,7 @@ https://portswigger.net/bur <br>
 OWASP ZAP <br>
 https://www.zaproxy.org/ <br>
 
-ensure you're familiar with your browsers dev tools - get used to the Console, Network and Application tabs. <br>
+Ensure you're familiar with your browser's dev tools - get used to the Console, Network and Application tabs. <br>
 
 InspectElement by right-clicking on the site or F12 <br>
 exploit trusted client input <br>
