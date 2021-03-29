@@ -1,3 +1,4 @@
+# Cole
 #Dirbuster-like script for sites that always return 301
 
 import requests

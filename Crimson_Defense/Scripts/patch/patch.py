@@ -1,3 +1,4 @@
+# Cole
 #Goal of program is to run a bash command with every permutation of arguments
 #This is useful for a file that has been split up as you can cat each permutation
 #until you arrive at a file that passes some sort of validity check

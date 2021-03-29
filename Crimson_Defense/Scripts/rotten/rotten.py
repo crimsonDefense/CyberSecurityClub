@@ -1,3 +1,4 @@
+# Cole
 #Custom caesar/rotation cipher solver with custom alphabet
 
 #Built-in sets to build from
